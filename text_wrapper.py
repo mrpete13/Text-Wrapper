@@ -7,6 +7,5 @@ def wrap():
     wrapped = open('pi_million_digits.txt', 'w')
     wrapped.write(text)
 
-# if __name__ == "__main__":
-# wrap()
-wrap()
+if __name__ == "__main__":
+    wrap()
