@@ -1,2 +1,3 @@
 # Text-Wrapper
-Python program that wraps text to a certain number of characters per line.
+This program wraps text to a certain number of characters per line in a text
+file. This program is currently only functional in windows. 
